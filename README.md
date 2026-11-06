@@ -1,7 +1,7 @@
-# Tugas Deep Learning: Deteksi Website Phishing
-**Implementasi Model: CNN, RNN, dan Transfer Learning**
+# Deteksi Website Phishing Menggunakan Deep Learning
+**Eksplorasi & Implementasi Arsitektur: CNN, RNN, dan Transfer Learning**
 
-Repository ini berisi tugas individu mata kuliah **Deep Learning** untuk mendeteksi situs web *phishing* menggunakan 3 arsitektur:
+Repository ini berisi proyek eksplorasi **Deep Learning** untuk mengklasifikasikan dan mendeteksi situs web *phishing* menggunakan 3 pendekatan arsitektur:
 1. **CNN (*Convolutional Neural Network*)**
 2. **RNN (*Recurrent Neural Network*)**
 3. **Transfer Learning**
