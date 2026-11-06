@@ -1,0 +1,5 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),ROC-AUC (%),Training Time (s),Total Parameters
+1D-CNN,95.3,94.21,95.24,94.72,99.25,36.62,54593
+Simple RNN,94.45,94.84,92.52,93.66,98.76,15.16,9057
+GRU,96.44,96.56,95.37,95.96,99.42,38.6,44545
+Transfer Learning,96.68,96.96,95.51,96.23,99.55,59.7,67009
